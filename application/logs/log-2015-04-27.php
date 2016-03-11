@@ -1,0 +1,37 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-04-27 03:08:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:08:02 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:08:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:08:03 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:08:03 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:08:03 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:10:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:10:12 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:10:12 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:10:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:10:25 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:10:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:10:25 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:10:25 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:10:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:10:28 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:10:33 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:11:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:11:36 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:11:37 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:14:12 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:14:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:14:13 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:14:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 03:14:14 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 03:14:16 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 03:31:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 21:28:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 21:28:08 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 21:28:09 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 22:04:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 22:04:46 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-04-27 22:04:47 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-04-27 22:17:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2015-04-27 22:19:08 --> Severity: Notice  --> Undefined variable: this_pwdStat /home8/cybertr5/public_html/www.intranet-cybertrend-intra-com/application/views/v_oas003.php 27

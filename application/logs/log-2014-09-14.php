@@ -1,0 +1,41 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-09-14 08:05:46 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 08:06:46 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 08:07:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 08:07:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 08:07:47 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 08:12:53 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 08:31:32 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 08:56:48 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 09:09:32 --> 404 Page Not Found --> C_OAS001
+ERROR - 2014-09-14 09:18:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 09:19:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 09:51:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 09:51:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 10:22:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 10:22:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 10:23:36 --> 404 Page Not Found --> login
+ERROR - 2014-09-14 17:20:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 17:20:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 19:52:10 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 19:52:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:33:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:33:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:41:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:41:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:45:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 20:45:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 21:01:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 21:33:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 21:33:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 21:33:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 21:56:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /home8/cybertr5/public_html/www.intranet-cybertrend-intra-com/application/controllers/c_oas020.php 69
+ERROR - 2014-09-14 21:57:17 --> 404 Page Not Found --> C_OAS015
+ERROR - 2014-09-14 21:57:27 --> 404 Page Not Found --> C_OAS009
+ERROR - 2014-09-14 21:57:29 --> 404 Page Not Found --> C_OAS005
+ERROR - 2014-09-14 21:57:31 --> 404 Page Not Found --> C_OAS016
+ERROR - 2014-09-14 21:57:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /home8/cybertr5/public_html/www.intranet-cybertrend-intra-com/application/controllers/c_oas020.php 69
+ERROR - 2014-09-14 21:59:04 --> 404 Page Not Found --> 112~application-development
+ERROR - 2014-09-14 21:59:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-14 22:00:46 --> 404 Page Not Found --> favicon.ico
