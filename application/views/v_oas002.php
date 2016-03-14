@@ -390,7 +390,7 @@ $dev_mode = false;
         <script src="<?php echo js_url();?>plugins/daterangepicker/daterangepickernew.js" type="text/javascript"></script>
         
         <script src="<?php echo js_url();?>plugins/datepicker/bootstrap-datepicker.js" type="text/javascript"></script>
-
+        <script type="text/javascript" src="<?php echo js_url();?>plugins/chosen/chosen.jquery.js"></script>
 
         <script type="text/javascript">
 

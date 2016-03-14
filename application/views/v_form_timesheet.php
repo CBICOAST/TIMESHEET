@@ -3,7 +3,7 @@
         
 <!-- Latest compiled and minified JavaScript -->
         <!-- <link rel="stylesheet" href="http://localhost/COAST2/assets/css/select2/select2.css"> -->
-        <link rel="stylesheet" href="http://localhost/COAST2/assets/js/plugins/datepicker/datepicker3.css">
+        <link rel="stylesheet" href="<?php echo js_url(); ?>plugins/datepicker/datepicker3.css">
         <link rel="stylesheet" href="<?php echo css_url(); ?>chosen/chosen.css">
         
 <div class="box box-success">
