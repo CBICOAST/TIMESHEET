@@ -185,7 +185,7 @@ $(document).ready(function(){
             //var charcode = <?php echo $charge_code; ?>;
             //var actcode = <?php echo $act_code; ?>;
             
-            $(".select_charge").chosen();
-            $(".select_act").chosen();
+            $(".select_charge").chosen({allow_single_deselect: true});
+            $(".select_act").chosen({allow_single_deselect: true});
             });
 </script>
