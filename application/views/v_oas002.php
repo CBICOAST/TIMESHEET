@@ -540,7 +540,30 @@ $dev_mode = false;
                                 });
                 }
             }
-
+function form_dialog2(title, url){
+                if(dialog == null)
+                {
+                    var message = "";
+                    dialog = $.Zebra_Dialog(message, {
+                                    'type':     false,
+                                    'overlay_close': false,
+                                    'custom_class':  'form-dialog',
+                                    'title':    title,
+                                    'animation_speed_hide': 1000,
+                                    'animation_speed_show': 1000,
+                                    'source':  {'ajax': url,
+                                                'cache': false},
+                                    'max_height': 550,
+                                    'overlay_opacity': '.75',
+                                    'buttons': false,
+                                    'width':1700,
+                                    'height':1000,
+                                    'onClose':  function() {
+                                                    form_dialog_close();
+                                                }
+                                });
+                }
+            }
             function form_dialog(title, url){
                 if(dialog == null)
                 {
