@@ -57,7 +57,7 @@
                         echo "<tr class='Approved'>";
                         echo "<td>".$idx."</td>";
                         echo "<td>".$employee_name."</td>";
-                        echo "<td><a href=\"#\" title=\"Detail\" onclick=\"change_page(this, 'c_rsc_fill_timesheet/load_form/".$value['date_period']."')\">Timesheet Periode ".$value['char_period']."</a></td>";
+                        echo "<td><a href=\"#\" title=\"Detail\" onclick=\"change_page(this, 'c_resource_timesheet/load_view_periode/".$value['date_period']."')\">Timesheet Periode ".$value['char_period']."</a></td>";
                         echo "<td class=\"text-center\"><a href=\"#\" class=\"opt edit\" title=\"Detail\" onclick=\"change_page(this, 'c_rsc_fill_timesheet/load_form/".$value['date_period']."')\"></a></td>";
                         echo "</tr>";
      }
