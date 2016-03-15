@@ -3,7 +3,7 @@
         
 <!-- Latest compiled and minified JavaScript -->
        <!-- <link rel="stylesheet" href="http://localhost/COAST2/assets/css/select2/select2.css"> -->
-        <link rel="stylesheet" href="http://localhost/COAST2/assets/js/plugins/datepicker/datepicker3.css">
+       <link rel="stylesheet" href="<?php echo js_url(); ?>plugins/datepicker/datepicker3.css">
         <link rel="stylesheet" href="<?php echo css_url(); ?>chosen/chosen.css">
 <div class="box box-success">
     <!-- <div class="box-header">
@@ -172,7 +172,12 @@ $(document).ready(function(){
             //var charcode = <?php echo $charge_code; ?>;
             //var actcode = <?php echo $act_code; ?>;
             
-            $(".select_charge").chosen();
-            $(".select_act").chosen();
+            var config = {
+      '.select_charge'  : {allow_single_deselect:true},
+      '.select_act'  : {allow_single_deselect:true}
+    };
+    for (var selector in config) {
+      $(selector).chosen(config[selector]);
+    }
             });
 </script>
