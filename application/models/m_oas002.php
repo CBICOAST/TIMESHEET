@@ -110,7 +110,7 @@ class M_OAS002 extends CI_Model {
 							priv.USER_GROUP_ID = '$data[this_group]'  AND
 							priv.ALLOW = '1'  
 				ORDER BY
-							menu.MENU_ORDER ASC ";
+							menu.MENU_ORDER, menu.MENU_ID ASC ";
 		return fetchArray($sql, 'all');
 	}
 	
